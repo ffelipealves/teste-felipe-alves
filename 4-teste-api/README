@@ -1,0 +1,4 @@
+Executar api python com:
+uvicorn main:app --reload
+Font End Vue pode ser executado com:
+npm run serve
